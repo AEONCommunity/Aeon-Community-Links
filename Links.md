@@ -23,3 +23,5 @@ These links are Official links to all things Aeon:
 [Discord](https://discord.gg/xWZ2z78)
 
 [Funding System](https://www.aeonfunding.com)
+
+[Medium](https://medium.com/@Aeon_Community/)
